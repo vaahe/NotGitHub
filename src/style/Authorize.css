@@ -1,0 +1,15 @@
+.signin {
+    background-image: url("../../public/assets/bg-signin.png");
+    background-size: cover;
+
+    background-position: center;
+    box-shadow: inset 0px 0px 25px 25px #000000;
+}
+
+.signup {
+    background-image: url("../../public/assets/bg-signup.png");
+    background-size: cover;
+
+    background-position: center;
+    box-shadow: inset 0px 0px 25px 25px #000000;
+}

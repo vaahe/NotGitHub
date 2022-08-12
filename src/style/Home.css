@@ -1,0 +1,14 @@
+@import url('http://fonts.cdnfonts.com/css/glitch-inside');
+
+.home {
+    background-image: url('../../public/assets/grid02.png');
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.welcome-text {
+    font-family: 'Glitch Inside', sans-serif;
+    font-size: 50px;
+    color: #ffffff;
+}
